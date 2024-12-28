@@ -1,6 +1,6 @@
-package cn.sx.code.factory.case1.service;
+package cn.sx.code.factory.easy.case1.service;
 
-import cn.sx.code.factory.case1.entity.YouKuMember;
+import cn.sx.code.factory.easy.case1.entity.YouKuMember;
 import lombok.extern.slf4j.Slf4j;
 
 /**

@@ -1,14 +1,13 @@
-package cn.sx.code.factory.case1.controller;
+package cn.sx.code.factory.easy.case1.controller;
 
-import cn.sx.code.factory.case1.entity.AwardInfo;
-import cn.sx.code.factory.case1.entity.SmallGiftInfo;
-import cn.sx.code.factory.case1.service.DiscountService;
-import cn.sx.code.factory.case1.service.SmallGiftService;
-import cn.sx.code.factory.case1.service.YouKuMemberService;
+import cn.sx.code.factory.easy.case1.entity.AwardInfo;
+import cn.sx.code.factory.easy.case1.entity.SmallGiftInfo;
+import cn.sx.code.factory.easy.case1.service.DiscountService;
+import cn.sx.code.factory.easy.case1.service.SmallGiftService;
+import cn.sx.code.factory.easy.case1.service.YouKuMemberService;
 
 /**
- * @author 谢骏
- * @date 2024/12/28 16:32
+ * 客户端
  **/
 public class DeliverController {
 

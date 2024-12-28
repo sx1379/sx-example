@@ -1,6 +1,6 @@
-package cn.sx.code.factory.case1.service;
+package cn.sx.code.factory.easy.case1.service;
 
-import cn.sx.code.factory.case1.entity.SmallGiftInfo;
+import cn.sx.code.factory.easy.case1.entity.SmallGiftInfo;
 
 /**
  * 小礼品服务

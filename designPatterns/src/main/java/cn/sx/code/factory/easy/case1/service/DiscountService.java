@@ -1,7 +1,7 @@
-package cn.sx.code.factory.case1.service;
+package cn.sx.code.factory.easy.case1.service;
 
-import cn.sx.code.factory.case1.common.Result;
-import cn.sx.code.factory.case1.entity.DiscountInfo;
+import cn.sx.code.factory.easy.case1.common.Result;
+import cn.sx.code.factory.easy.case1.entity.DiscountInfo;
 
 /**
  * 打折券服务

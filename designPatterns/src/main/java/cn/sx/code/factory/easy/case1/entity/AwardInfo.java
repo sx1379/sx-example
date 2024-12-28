@@ -1,4 +1,4 @@
-package cn.sx.code.factory.case1.entity;
+package cn.sx.code.factory.easy.case1.entity;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
